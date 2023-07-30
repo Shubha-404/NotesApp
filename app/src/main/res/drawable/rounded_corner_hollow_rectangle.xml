@@ -1,0 +1,22 @@
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+
+    <!-- Gradient for the inner area -->
+    <gradient
+        android:startColor="#00BFFF"
+    android:endColor="#4169E1"
+    android:type="linear"
+    android:angle="135"
+    />
+
+    <!-- Stroke -->
+    <stroke
+        android:color="#1E90FF"
+    android:width="2dp"
+    />
+
+    <!-- Rounded corners -->
+    <corners android:radius="8dp" />
+
+</shape>
